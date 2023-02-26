@@ -21,3 +21,6 @@ http://www.riss.kr/PopularList.do
 ### 2023.1.22~2023.2.18
 ![image](wordcloud/2023.1.22~2023.2.18.png)
 ![image](barplot/2023.1.22~2023.2.18.png)
+### 2023.1.29~2023.2.25
+![image](wordcloud/2023.1.29~2023.2.25.png)
+![image](barplot/2023.1.29~2023.2.25.png)
