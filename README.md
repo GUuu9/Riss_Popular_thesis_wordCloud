@@ -1,4 +1,4 @@
-# 크롬 드라이버 오류 문제로 인하여 업데이트 지연 / 23.09.03
+# Fin _ 2023.8.26
 
 # Riss_Popular_thesis_wordCloud
 
